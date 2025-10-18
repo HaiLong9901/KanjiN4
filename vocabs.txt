@@ -1,0 +1,201 @@
+力:ちから:Lực-Sức mạnh
+協力: きょうりょく:Hợp tác, hiệp Lực
+動:うご(kun):Động
+動きます:うごきます:Cử động, chuyển Động
+運動します:うんどうします:Vận động, thể dục
+自動:じどう:Tự Động
+動画:どうが:Video, clip
+動物:どうぶつ:Động vật
+感動:かんどう:Cảm động, ấn tượng
+不動産:ふどうさん:Bất động sản
+働:はたら:Động 
+働きます:はたらきます:Làm việc
+知:チ:Tri
+知ります:しります:Biết
+お知らせ:おしらせ:Thông báo
+知り合い:しりあい:Người quen
+承知:しょうち:Đòng ý, hiểu rõ
+短:みじか:Đoản
+短い:みじかい:Ngắn
+短気:たんき:Nóng tính
+医:い:Y
+医者:いしゃ:Bác sĩ
+歯医者:はいしゃ:Nha sĩ
+医学:いがく:Y học
+皿:さら:Mãnh
+お皿:おさら:Chiếc đĩa
+血:ち:Huyết-máu
+工:こう:Công
+工事:こうじ:Thi công, công trình
+工場:こうじょう:Nhà máy
+空:そら:Không-bầu trời
+空港:くうこう:Sân bay
+空気:くうき:Không khí
+試:し:Thí
+試験:しけん:Kỳ thi 
+試合:しあい:Trận đấu
+試着する:しちゃくする:Mặc thử
+計:けい:Kế
+時計:とけい:Đồng hồ
+計算:けいさん:Tính toán
+腕時計:うでどけい:Đồng hồ đeo tay
+計画:けいかく:Kế hoạch
+説:せつ:Thuyết
+小説:しょうせつ:Tiểu Thuyết
+説明する:せつめいする:Giải thích
+説明会:せつめいかい:Buổi hướng dẫn/giải thích
+説明書:せつめいしょ:Sách hướng dẫn
+心:しん:Tâm
+安心します:あんしんします:Yên tâm, an tâm
+心配します:しんぱいします:Lo lắng
+思:おも:Tư 
+思います:おもいます:Nghĩ, cảm thấy
+思い出します:おもいだします:Nhớ ra
+不思議:ふしぎ:Kì lạ, khó hiểu
+性:せい:Tính
+女性:じょせい:Nữ giới, phụ nữ
+男性:だんせい:Nam giới, đàn ông
+性格:せいかく:Tính cách
+地:ち:Địa
+地図:ちず:Bản Đồ
+地下鉄:ちかてつ:Tàu điện ngầm 
+地面:じめん:Mặt đất
+地震:じしん:Động đất
+池:いけ:Trì-ao
+電池:でんち:Cục pin
+公:おおやけ:Công
+公園:こうえん:Công viên
+主人公:しゅじんこう:Nhân vật chính
+広:ひろ:Quảng
+広い:ひろい:Rộng
+広告:こうこく:Quảng cáo
+去:さ・る:Khứ
+去年:きょねん:Năm ngoái
+転:ころ:chuyển
+転びます:ころびます:Ngã, té
+運転します:うんてんします:Lái xe
+自転車:じてんしゃ:Lái xe
+運転手:うんてんしゅ:Tài xế, người lái xe
+遠:とお:Viễn
+遠い:とおい:Xa
+園:えん:Viên 
+公園:こうえん:Công viên
+遊園地:ゆうえんち:Khu vui chơi
+動物園:どうぶつえん:Sở thú
+保育園:ほいくえん:Nhà trẻ
+台:だい:Đài
+台所:だいどころ:Nhà bếp
+台風:たいふう:Bão
+始:はじ:Thủy
+始めます:はじめます:Bắt đầu (cái gì đó)
+始まります:はじまります:(cái gì đó) Bắt đầu
+開始:かいし:Bắt đầu, khởi đầu
+治:なお:Trị
+治します:なおします:Chữa, trị bệnh
+治ります:なおります:Khỏi bệnh, lành vết thương
+政治:せいじ:Chính trị
+正:ただ:Chính
+正しい:ただしい:Đúng, chính xác
+お正月:おしょうがつ:Tết 
+政:せい:Chính
+政治:せいじ:Chính trị
+王:おう:Vương
+王様:おうさま:Nhà vua
+玉:たま:Ngọc
+お年玉:おとしだま:Tiền mừng tuổi
+目玉焼き:めだまやき:Trứng ốp la
+国:くに:Quốc-Đất nước
+外国:がいこく:Nước ngoài
+外国語:がいこくご:Ngoài ngữ
+国際:こくさい:Quốc Tế
+主:おも:Chủ
+飼い主:かいぬし:Chủ nuôi
+ご主人:ごしゅじん:Chồng (người khác)
+主人公:しゅじんこう:Nhân vật chính
+住:す・む:Trú
+住みます:すみます:Sống, sinh sống 
+住所:じゅうしょ:Địa chỉ
+所:ところ:Sở-Nơi,chỗ
+台所:だいどころ:Bếp, phòng bếp
+住所:じゅうしょ:Nơi ở, địa chỉ
+市役所:しやくしょ:Tòa thị chính
+近所:きんじょ:Hàng xóm, khu lân cận
+近:ちか:Cận 
+近い:ちかい:Gần, sát
+近づきます:ちかづきます:Lại gần, tiếp cận 
+最近:さいきん:Gần đây, dạo này
+近所:きんじょ:Hàng xóm, khu lận cận 
+辺:へん:Biên-Khu vực, vùng
+この辺:このへん:Vùng này, khu vực này
+切:き・る:Thiết
+切ります:きります:Cắt, cứa; ngắt (nguồn điện, điện thoại)
+切符:きっぷ:Vé
+切手:きって:Con tem
+締め切り:しめきり:Hạn chót
+親切:しんせつ:Hạn chót
+大切:たいせつ:Quan trọng
+勉:ベン:Học 
+勉強します:べんきょうします:Học
+晩:バン:Vãn
+今晩:こんばん:Tối nay
+毎晩:まいばん:Hàng tối, mỗi tối 
+晩ご飯:ばんごはん:Cơm tối 
+色:いろ:Sắc-Màu sắc 
+色んな:いろんな:Nhiều (loại)
+茶色:ちゃいろ:Màu nâu
+景色:けしき:Phong cảnh
+発:はつ:Phát
+発明:はつめい:Phát minh
+発見:はっけん:Phát kiến, phát hiện
+出発:しゅっぱつ:Xuất phát
+発音:はつおん:Phát âm
+発売:はつばい:Mở bán
+黄:き:Hoàng
+黄色:きいろ:Màu vàng
+黄色い:きいろい:Vàng 
+虫:むし:Côn trùng, con sâu
+風:かぜ:Phong-Gió
+風邪:かぜ:Cảm cúm
+台風:たいふう:Bão 
+強:つよ:Cường
+強い:つよい:Mạnh 
+勉強:べんきょう:Học tập
+油:あぶら:Dầu
+石油:せきゆ:Dầu mỏ
+決:き:Quyết
+決めます:きめます:Quyết định (cái gì đó)
+決まります:きまります:(Cái gì đó) Được quyết định
+漢:かん:Hán
+漢字:かんじ:Chữ Hán
+止:と:Chỉ 
+止まります:とまります:(Xe) Dừng, đỗ
+止みます:やみます:Ngừng, dừng lại, tạnh (mưa)
+中止:ちゅうし:Hủy bỏ, ngừng (giữa chừng)
+歩:ある:Bộ
+歩きます:あるきます:Đi bộ 
+散歩します:さんぽします:Đi dạo, tản bộ 
+歴:れき:Lịch
+歴史:れきし:Lịch sử
+史:し:Sử 
+使:つか:Sử
+大使館:たいしかん:Đại sứ quán
+使います:つかいます:Sử dụng
+使用します:しようします:Sử dụng
+品:しな:Phẩm
+商品:しょうひん:Sản phẩm 
+化粧品:けしょうひん:Mỹ phẩm
+号:ごう:Hiệu
+信号:しんごう:Tín hiệu, đèn giao thông 
+電話番号:でんわばんごう:Số điện thoại
+暗証番号:あんしょうばんごう:Mật khẩu
+味:あじ:Vị-Mùi vị 
+意味:いみ:Ý nghĩa
+興味:きょうみ:Hứng thú 
+調味料:ちょうみりょう:Gia vị 
+研:けん:Nghiên
+研究:けんきゅう:Nghiên cứu
+研究者:けんきゅうしゃ:Nhà nghiên cứu
+丸:まる:Hoàn-Hình tròn
+究:きゅう:Cứu 
+谷:たに:Cốc-Thung lũng
+船:ふね:Thuyền-Con thuyền, tàu 
