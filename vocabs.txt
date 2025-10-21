@@ -199,3 +199,216 @@
 究:きゅう:Cứu 
 谷:たに:Cốc-Thung lũng
 船:ふね:Thuyền-Con thuyền, tàu 
+里:さと:Lí
+里芋:さといも:Khoai sọ 
+万里の長城:ばんりのちょうじょう:Vạn Lí Trường Thành 
+理:り:Lí 
+料理:りょうり:Món ăn
+修理:しゅうり:Sửa chữa 
+野:の:Dã 
+野菜:やさい:Rau
+野球:やきゅう:Bóng chày
+若:わか:Nhược
+若い:わかい:Trẻ trung
+菜:な:Thái
+番:ばん:Phiên
+一番:いちばん:Số 1, nhất
+交番:こうばん:Đồn cảnh sát
+番組:ばんぐみ:Chương trình (truyền hình)
+料:りょう:Liệu
+無料:むりょう:Miễn phí
+料理する:りょうりする:Nấu ăn 
+材料:ざいりょう:Nguyên liệu, vật liệu, tài liệu 
+給料:きゅうりょう:Lương
+食料品:しょくりょうひん:Thực phẩm 
+奥:おく:Áo
+奥さん:おくさん:Vợ (người khác)
+鳥:とり:Điểu-Con chim
+鳴:な:Minh 
+鳴きます:なきます:(Mèo, chim, chó) Kêu, hót, sủa
+鳴ります:なります:(Chuông) Reo 
+島:しま:Đảo-Hòn đảo 
+化:ばける:Hóa
+文化:ぶんか:Văn hóa 
+化粧:けしょう:Trang điểm
+化粧品:けしょうひん:Mỹ phẩm 
+便:たより:Tiện
+不便:ふべん：Bất tiện 
+便利:べんり:Tiện lợi
+郵便局:ゆうびんきょく:Bưu điện
+宅配便:たくはいびん:Dịch vụ chuyển phát nhanh tận nhà 
+係:かかり:Hệ 
+係の人:かかりのひと:Người phụ trách 
+宿:やど:Túc 
+宿題:しゅくだい:Bài tập về nhà 
+私:わたし:Tư-Tôi
+利:きく:Lợi 
+利用:りよう:Sử dụng, tận dụng, lợi dụng 
+科:か:Khoa 
+科学:かがく:Khoa học 
+教科書:きょうかしょ:Sách giáo khoa 
+顔:かお:Nhan-Gương mặt, khuôn mặt 
+題:だい:Đề 
+問題:もんだい:Vấn đề 
+食べ放題:たべほうだい:Ăn thỏa thích, buffet
+速:はや:Tốc 
+速い:はやい:Nhanh 
+通:かよ:Thông 
+通います:かよいます:Đi lại (chỉ việc thường hay đi đến một địa điểm nào đó)
+交通:こうつう:Giao thông 
+週:しゅう:Chu 
+先週:せんしゅう:Tuần trước 
+今週:こんしゅう:Tuần này 
+来週:らいしゅう:Tuần sau 
+週末:しゅうまつ:Cuối tuần 
+再来週:さらいしゅう:Tuần sau nữa 
+夫:おっと:Phu-Chồng
+大丈夫:だいじょうぶ:Ổn, không sao
+鉄:てつ:Thiết
+地下鉄:ちかてつ:Tàu điện ngầm
+妹:いもうと:Muội-Em gái 
+妹さん:いもうとさん:Em gái (người khác)
+姉妹:しまい:Chị em gái 
+姉:あね:Tỉ-Chị gái 
+お姉さん:おねえさん:Chị gái (người khác)
+妻:つま:Thê-Vợ (mình)
+天:あめ:Thiên
+天気:てんき:Thời tiết 
+天気予報:てんきよほう:Dự báo thời tiết 
+送:おく:Tống
+送ります:おくります:Gửi, tiễn (người)
+弟:おとうと:Đệ-Em trai 
+弟さん:おとうとさん:Em trai (người khác)
+兄弟:きょうだい:Anh chị em 
+引:ひ:Dẫn 
+引きます:ひきます:Kéo 
+引き出し:ひきだし:Ngăn kéo 
+引き出します:ひきだします:Rút (tiền)
+引っ越します:ひっこします:Chuyển nhà 
+弱:よわ:Nhược
+弱い:よわい:Yếu 
+考:かんが:Khảo
+考えます:かんがえます:Suy nghĩ 
+者:もの:Giả 
+都:みやこ:Đô 
+都合:つごう:Sự thuận tiện 
+都会:とかい:Thành phố, độ thị 
+暑:あつ:Thử 
+暑い:あつい:Nóng 
+開:あく:Khai 
+開きます:あきます:(Cái gì đó) mở 
+開始:かいし:Bắt đầu, khởi đầu 
+開催:かいさい:Tổ chức, khai mạc 
+閉:し:Bế 
+閉まります:しまります:(Cái gì đó) Đóng 
+閉めます:しめます: Đóng (cái gì đó) 
+閉じます:とじます:Đóng, nhắm (mắt)
+問:とう:Vấn 
+質問:しつもん:Câu hỏi, thắc mắc
+疑問:ぎもん:Nghi vấn 
+質:しつ:Chất 
+貸:か:Thải
+貸します:かします:Cho vay, cho mượn
+員:いん:Viên 
+社員:しゃいん:Nhân viên công ty 
+店員:てんいん:Nhân viên cửa hàng 
+駅員:えきいん:Nhân viên nhà ga 
+会社員:かいしゃいん:Nhân viên công ty 
+全員:ぜんいん:Tất cả mọi người 
+店:みせ:Điếm-Cửa hàng 
+店長:てんちょう:Trưởng/quản lý cửa hàng 
+喫茶店:きっさてん:Quản nước, quán giải khát 
+度:たび:Độ 
+~度:ど:Độ 
+今度:こんど:Lần tới 
+温度:おんど:Nhiệt độ 
+支度する:したくする:Chuẩn bị, sửa soạn 
+何度も:なんども:Nhiều lần, bao lần 
+黒:くろ:Hắc-Màu đen 
+黒い:くろい:Đen 
+真黒:まっくろ:Đen thui, đen sì 
+黒板:こくばん:Bảng đen 
+点:てん:Điểm 
+点数:てんすう:Điểm số 
+交差点:こうさてん:Ngã tư, điểm giao nhau 
+然:ぜん:Nhiên 
+全然:ぜんぜん:Hoàn toàn 
+自然:しぜん:Tự nhiên 
+声:こえ:Thanh-Giọng nói 
+音声:おんせい:Âm thanh 
+仕:つかえる:Sĩ 
+仕事:しごと:Công việc 
+才:さい:Tài 
+天才:てんさい:Thiên tài 
+才能:さいのう:Tài năng 
+事:こと:Sự 
+事務所:じむしょ:Văn phòng 
+工事します:こうじします:Thi công, sửa chữa 
+用事:ようじ:Việc bận 
+事故:じこ:Sự cố, tai nạn
+火事:かじ:Hỏa hoạn 
+大事:だいじ:Quan trọng 
+予:あらかじめ:Dự
+予約します:よやくします:Đặt trước, hẹn trước 
+予習:よしゅう:Chuẩn bị bài trước
+予定:よてい:Dự định 
+予想します:よそうします:Dự đoán 
+服:ふく:Phục-Quần áo 
+制服:せいふく:Đồng phục 
+洋服:ようふく:Quần áo kiểu Tây 
+報:むくいる:Báo 
+指:ゆび:Chỉ-Ngón tay
+指輪:ゆびわ:Nhẫn 
+押:おす:Áp
+押します:おします:Nhấn, ấn 
+洋:よう:Dương
+洋食:ようしょく:Đồ ăn kiểu Tây 
+遅:おそ:Trì 
+遅い:おそい:Muộn, chậm
+遅れます:おくれます:Muộn, trễ 
+遅刻:ちこく:Trễ giờ, đến muộn 
+遅延:ちえん:Trễ, chậm (so với lịch trình dự kiến)
+様:さま:Dạng 
+お客様:おきゃくさま:Quý khách, khách hàng 
+奥様:おくさま:Phu nhân, vợ (người khác)
+様子:ようす:Tình hình, trạng thái 
+着:きる:Trước
+着ます:きます:Mặc 
+着物:きもの:Kimono
+上着:うわぎ:Áo khoác
+試着:しちゃく:Mặc thử 
+有:ある:Hữu 
+有名:ゆうめい:Nổi tiếng 
+有名人:ゆうめいじん:Người nổi tiếng 
+有休:ゆうきゅう:Nghỉ phép 
+育:そだ:Dục 
+育ちます:そだちます:Lớn nên 
+育てます:そだてます:Nuôi dưỡng 
+教育:きょういく:Giáo dục 
+体育:たいいく:Thể dục 
+保育園:ほいくえん:Nhà trẻ 
+教:おしえる:Giáo 
+教えます:おしえます:Dạy, chỉ bảo 
+教わります:おそわります:Được dạy 
+教師:きょうし:Giáo viên 
+教室:きょうしつ:Lớp học 
+数:かず:Số-Con số, số lượng
+数えます:かぞえます:Đếm 
+数学:すうがく:Môn toán
+数字:すうじ:Chữ số, con số 
+楽:たの:Lạc 
+楽しい:たのしい:Vui vẻ 
+楽しみ:たのしみ:Niềm vui, sự mong chờ 
+楽しみます:たのしみます:Tận hưởng
+音楽:おんがく:Âm nhạc 
+楽器:がっき:Nhạc cụ 
+薬:くすり:Dược-Thuốc men 
+目薬:めぐすり:Thuốc nhỏ mắt 
+記:しるす:Ký 
+日記:にっき:Nhật ký 
+起:おきる:Khởi 
+起きます:おきます:Thức dậy, xảy ra 
+起こします:おこします:Đánh thức, gây ra 
+早起き:はやおき:Dậy sớm 
+港:みなと:Cảng
+空港:くうこう:Sân bay
