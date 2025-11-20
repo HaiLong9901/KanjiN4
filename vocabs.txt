@@ -412,3 +412,74 @@
 早起き:はやおき:Dậy sớm 
 港:みなと:Cảng
 空港:くうこう:Sân bay
+赤:あか:Xích-Màu đỏ 
+赤い:あか:Đỏ
+赤ちゃん:あかちゃん:Em bé, trẻ sơ sinh
+走:はし:Tẩu
+走ります:はしります:Chạy
+場:ジョウ:Trường 
+場所:ばしょ:Địa điểm 
+売場:うりば:Quầy bán hàng 
+乗場:のりば:Chỗ lên xe 
+駐車場:ちゅうしゃじょう:Bãi đỗ xe 
+会場:かいじょう:Hội trường 
+工場:こうじょう:Nhà máy 
+室:むろ:Thất
+教室:きょうしつ:Phòng học 
+休憩室:きゅうけいしつ:Phòng nghỉ ngơi
+会議室:かいぎしつ:Phòng họp
+屋:や:Ốc
+部屋:へや:Căn phòng 
+本屋:ほんや:Hiệu sách 
+屋上:おくじょう:Sân thượng 
+堂:ドウ:Đường 
+食堂:しょくどう:Nhà ăn 
+院:イン:Viện 
+病院:びょういん:Bệnh viện 
+美容院:びよういん:Thẩm mỹ viện 
+入院:にゅういん:Nhập viện 
+大学院:だいがくいん:Cao học
+降:ふ/お:Giáng 
+降ります:おります:Xuống xe 
+降ります:ふります:(Mưa, tuyết) rơi
+部:ブ:Bộ 
+全部:ぜんぶ:Toàn bộ 
+部長:ぶちょう:Trưởng ban 
+原:はら:Nguyên 
+原因:げんいん:Nguyên nhân 
+反:そる:Phản 
+反対:はんたい:Phản đối 
+文:ぶん:Văn-Câu văn 
+作文:さくぶん:Bài văn 
+文句:もんく:Lời phàn nàn 
+論文:ろんぶん:Luận văn 
+済:すむ:Tế 
+経済:けいざい:Kinh tế 
+対:たい:Đối 
+絶対に:ぜったいに:Tuyệt đối 
+糸:いと:Mịch-Sợi chỉ 
+毛糸:けいと:Sợi len 
+緑:みどり:Lục-Xanh lá cây 
+経:へる:Kinh 
+経験:けいけん:Kinh nghiệm 
+紙:かみ:Chỉ-Tờ giấy 
+手紙:てがみ:Bức thư 
+折り紙:おりがみ:Giấy gấp Origami
+申し込み用紙:もうしこみようし:Giấy đăng kí 
+細:こま:Tế 
+細かい:こまかい:Chi tiết, kĩ lưỡng 
+細い:ほそい:Thon dài, mỏng 
+練:ねる:Luyện 
+練習:れんしゅう:Luyện tập 
+羽:はね:Vũ-Cánh 
+習:なら:Tập 
+習います:ならいます:Học 
+練習する:れんしゅうする:Luyện vậy 
+予習:よしゅう:Soạn bài 
+復習:ふくしゅう:Ôn tập 
+馬:うま:Mã-Con ngựa
+駅:えき:Dịch-Nhà ga 
+駅前:えきまえ:Trước nhà ga 
+験:けん:Nghiệm 
+試験:しけん:Kỳ thi 
+実験:じっけん:Thực nghiệm 
