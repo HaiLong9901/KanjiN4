@@ -483,3 +483,134 @@
 験:けん:Nghiệm 
 試験:しけん:Kỳ thi 
 実験:じっけん:Thực nghiệm 
+作:つくり:Tác 
+作ります:つくりります:Làm, chế tạo, nấu 
+作文:さくぶん:Bài văn 
+作業:さぎょう:Công việc 
+作家:さっか:Tác giả, nhà văn 
+低:ひく:Đê 
+低い:ひくい:Thấp, lùn 
+最低:さいてい:Thấp nhất, ít nhất, tệ hại
+夜:よる:Dạ-Buổi tối 
+今夜:こんや:Tối nay 
+夜行:やこうバス:Xe bus đêm 
+家:いえ/うち:Gia-Nhà 
+家族:かぞく:Gia đình 
+実家:じっか:Nhà bố mẹ đẻ 
+建築家:けんちくか:Kiến trúc sư 
+家賃:やちん:Tiền thuê nhà 
+宅:たく:Trạch
+お宅:おたく:Nhà (người khác)
+宅配便:たくはいびん:Dịch vụ chuyển phát tận nhà 
+客:きゃく:Khách 
+旅行客:りょこうきゃく:Khách du lịch 
+お客様:おきゃくさま:Quý khách, khách hàng 
+館:やかた:Quán 
+旅館:りょかん:Lữ quán, nhà trọ kiểu Nhật 
+美術館:びじゅつかん:Bảo tàng mỹ thuật 
+特:とく:Đặc 
+特に:とくに:Đặc biệt là ..., nhất là ...
+特急:とっきゅう:Tàu tốc hành đặc biệt 
+持:もつ:Trì 
+持ちます:もちます:Cầm, nắm, sở hữu 
+持ち運び:もちはこび:Chở đi, vác đi 
+気持ち:きもち:Cảm xúc, tâm trạng 
+お金持ち:おかねもち:Người giàu, giàu có 
+当:あ:Đương
+当たります:あたります:Trúng 
+本当:ほんとう:Thật sự, sự thật 
+お弁当:おべんとう:Cơm hộp 
+急:いそ:Cấp 
+急ぎます:いそぎます:Khẩn trương 
+急行:きゅうこう:Tàu tốc hành
+特急:とっきゅう:Tàu tốc hành đặc biệt 
+急に:きゅうに:Đột nhiên
+救急車:きゅうきゅうしゃ:Xe cấp cứu 
+竹:たけ:Trúc-Cây tre,cây trúc 
+答:こた:Đáp 
+答え:こたえ:Câu trả lời 
+答えます:こたえます:Trả lời 
+解答:かいとう:Câu trả lời, đáp án 
+映:うつる:Ánh 
+映画:えいが:Phim 
+映画館:えいがかん:Rạp chiếu phim 
+英:えい:Anh 
+英語:えいご:Tiếng Anh 
+青:あお:Thanh-Màu xanh da trời 
+青い:あおい:Xanh da trời 
+晴:は:Tình 
+晴れ:はれ:Trời quang, nắng ráo
+晴れます:はれます:(Trời) quang, nắng ráo 
+静:しず:Tĩnh 
+静か:しずか:Yên tĩnh 
+市:いち:Thị
+~市:~し:Thành phố 
+市役所:しやくしょ:Tòa thị chính 
+世:よ:Thế 
+世界:せかい:Thế giới 
+世界中:せかいじゅう:Trên toàn thế giới 
+世話:せわ:Chăm sóc, chăm nom 
+写: うつる:Tả 
+写します:うつします:Chụp (ảnh), sao chép 
+写真:しゃしん:Tấm ảnh, bức ảnh 
+県:ケン:Huyện 
+千葉県:ちばけん:Tỉnh Chiba 
+真:ま:Chân 
+真ん中:まんなか:Chính giữa 
+真っ暗:まっくら:Tối om 
+真面目:まじめ:Nghiêm túc, chăm chỉ 
+置:おく:Trí 
+置きます:おくきます:Đặt, để 
+眠:ねむい:Miên 
+眠い:ねむい:Buồn ngủ 
+眠ります:ねむります:Ngủ 
+睡眠:すいみん:Giấc ngủ 
+冬:ふゆ:Đông-Mùa đông 
+終:おわる:Chung 
+終わります:おわります:Kết thúc 
+寒:さむ:Hàn 
+寒い:さむい:Lạnh,rét 
+夏:なつ:Hạ-Mùa hè 
+道:みち:Đạo-Con đường 
+道路:どうろ:Con đường, đường sá 
+道具:どうぐ:Dụng cụ 
+水道:すいどう:Nước máy 
+茶道:さどう:Trà đạo 
+春:はる:Xuân-Mùa xuân 
+昼:ひる:Trú-Buổi trưa 
+昼ご飯:ひるごはん:Bữa trưa, cơm trưa 
+昼寝:ひるね:Ngủ trưa 
+星:ほし:Tinh-Ngôi sao 
+村:むら:Thôn-Thôn, làng 
+府:ふ:Phủ 
+大阪府:おおさかふ:Phủ Osaka 
+区:く:Khu-Quận 
+図:ず:Đồ-Hình vẽ, biểu đồ 
+地図:ちず:Bản đồ 
+図書館:としょかん:Thư viện 
+進:すす:Tiến 
+進みます:すすみます:Tiến lên, tiến hành, phát triển 
+進学:しんがく:Học lên cấp học tiếp theo 
+集:あつ:Thập 
+集まります:あつまります:Tập trung, tụ tập 
+集めます:あつめます:Sưu tầm, tập hợp lại 
+曜:よう:Diệu 
+何曜日:なんようび:Thứ mấy 
+水曜日:すいようび:Thứ tư 
+営:いとなむ:Doanh 
+業営します:えいぎょうします:Kinh doanh 
+業:わざ:Nghiệp
+授業:じゅぎょう:Tiết học, lớp học 
+卒業します:そつぎょうします:Tốt nghiệp 
+作業:さぎょう:Thao tác, công việc 
+残業:ざんぎょう:Tăng ca 
+麦:むぎ:Mạch-Lúa mì 
+乗:のる:Thừa 
+乗ります:のります:Leo lên, trèo lên, lên (xe)
+乗り換えます:のりかえます:Chuyển tàu/xe 
+乗り場:のりば:Chỗ lên xe, chỗ bắt xe 
+以:もって:Dĩ 
+以上:いじょう:Trở lên 
+以内:いない:Trong vòng 
+以下:いか:Trở vòng 
+以外:いがい:Ngoài ra
